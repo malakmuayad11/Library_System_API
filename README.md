@@ -1,5 +1,5 @@
 # 📚 Library Management System - API
-A RESTful API for a library management system, built with C# (.NET Core), and SQL Server. The application manages library operations, including adding books, members, courses, loans, and fines.
+A RESTful API for a library management system, built with C# (ASP.NET Core), and SQL Server. The application manages library operations, including adding books, members, courses, loans, and fines.
 > 💡 This project is a web API of my Library Management System.  
 > You can view it on my [GitHub Profile](https://github.com/malakmuayad11/Library_System).
 
@@ -18,7 +18,7 @@ A RESTful API for a library management system, built with C# (.NET Core), and SQ
 5. Press Start to run the application.
 
 ## ⚙️ Technologies:
-- C# (.NET Core / .NET)
+- C# (ASP.NET Core / .NET 8.0)
 - SQL Server
 - ADO.NET
 - Three-tier architecture
