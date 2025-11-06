@@ -1,6 +1,6 @@
 # 📚 Library Management System - API
 A RESTful API for a library management system, built with C# (.NET Core), and SQL Server. The application manages library operations, including adding books, members, courses, loans, and fines.
-> 💡 This project is part of my Library Management System.  
+> 💡 This project is a web API of my Library Management System.  
 > You can view it on my [GitHub Profile](https://github.com/malakmuayad11).
 
 ## ✅ Features
