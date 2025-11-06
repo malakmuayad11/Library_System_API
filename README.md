@@ -23,5 +23,5 @@ A RESTful API for a library management system, built with C# (.NET Core), and SQ
 
 ## 🧑‍💻 Author
 **Malak Muayad**  
-📧 [malakmuayad@example.com](mailto:malakmuayad15@gmail.com)  
-🔗 [GitHub Profile](https://github.com/malakmuayad11)
+📧 [malakmuayad15@gmail.com](mailto:malakmuayad15@gmail.com)  
+🔗 [malakmuayad11](https://github.com/malakmuayad11)
