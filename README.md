@@ -53,6 +53,26 @@ A backend RESTful API built with ASP.NET Core for managing a complete library sy
 - Three-tier architecture (API Layer, BAL, DAL, and Infrastructure)
 - Azure Key Vault integration
 
+## 📸 Screenshots
+
+### 🏠 Auth Controller + Authors Controller
+![Auth Controller + Authors Controller](./Screenshots/1.png)
+
+### 📚 Books Controller
+![Books Controller](./Screenshots/2.png)
+
+### 🏫 Course Controller + Fines Controller
+![Course Controller + Fines Controller](./Screenshots/3.png)
+
+### 💰Fines Controller + Loans Controller
+![Fines Controller + Loans Controller](./Screenshots/4.png)
+
+### 👥 Members Controller + MembershipTypes Controller
+![Members Controller + MemershipTypes Controller](./Screenshots/5.png)
+
+### 👤Users Controller
+![Users Controller](./Screenshots/6.png)
+
 ## 👩‍💻 Author
 **Malak Muayad**  
 📧 [malakmuayad15@gmail.com](mailto:malakmuayad15@gmail.com)  
