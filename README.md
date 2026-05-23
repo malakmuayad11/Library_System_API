@@ -55,22 +55,22 @@ A backend RESTful API built with ASP.NET Core for managing a complete library sy
 
 ## 📸 Screenshots
 
-### 🏠 Auth Controller + Authors Controller
+### 🏠 AuthController (Authenticaion) + AuthorsController
 ![Auth Controller + Authors Controller](./Screenshots/1.png)
 
-### 📚 Books Controller
+### 📚 BooksController
 ![Books Controller](./Screenshots/2.png)
 
-### 🏫 Course Controller + Fines Controller
+### 🏫 CourseController + FinesController
 ![Course Controller + Fines Controller](./Screenshots/3.png)
 
-### 💰Fines Controller + Loans Controller
+### 💰FinesController + LoansController
 ![Fines Controller + Loans Controller](./Screenshots/4.png)
 
-### 👥 Members Controller + MembershipTypes Controller
+### 👥 MembersController + MembershipTypesController
 ![Members Controller + MemershipTypes Controller](./Screenshots/5.png)
 
-### 👤Users Controller
+### 👤UsersController
 ![Users Controller](./Screenshots/6.png)
 
 ## 👩‍💻 Author
