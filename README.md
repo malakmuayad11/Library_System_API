@@ -61,7 +61,7 @@ A backend RESTful API built with ASP.NET Core for managing a complete library sy
 ### 📚 BooksController
 ![Books Controller](./Screenshots/2.png)
 
-### 🏫 CourseController + FinesController
+### 🏫 CoursesController + FinesController
 ![Course Controller + Fines Controller](./Screenshots/3.png)
 
 ### 💰FinesController + LoansController
